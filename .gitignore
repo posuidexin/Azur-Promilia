@@ -1,18 +1,13 @@
-# OS & Editor junk
+# OS & Editor files
 .DS_Store
 Thumbs.db
 desktop.ini
 *.tmp
 *.bak
 
-# Large local archives (avoid exceeding GitHub 100 MB single-file limit)
+# Large local archives & videos
 *.zip
 *.7z
 *.rar
 *.mp4
 *.mov
-
-# Python / scratch
-__pycache__/
-*.pyc
-_q_tmp/
